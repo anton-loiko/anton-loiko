@@ -7,7 +7,7 @@ Hi 👋 My name is Anton
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [here](http://anton-loiko.github.io/me/)
 * ✉️  You can contact me at [anton.loiko.engineer@gmail.com](mailto:anton.loiko.engineer@gmail.com)
-* 🧠  I'm learning C++ for Game Engines like UE5, Team Leadership
+* 🧠  I'm learning GoLang to develop efficient microservices and enhance my skills in building scalable applications
 * 🤝  I'm open to collaborating on Interesting products
 * 🤝  I'm available for full-time hire
 
